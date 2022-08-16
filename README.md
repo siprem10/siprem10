@@ -9,7 +9,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siprem10&repo=siprem10)](https://github.com/siprem10/siprem10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siprem10&repo=mabhyHs/Henrys-app)](https://github.com/mabhyHs/Henrys-app)
  
  <!-- subtitle -->
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
