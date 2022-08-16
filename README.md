@@ -18,22 +18,34 @@
  <h3><a href="https://henrys-app.vercel.app/" target="blank">Henrys App</a></h3>
 
  <!-- img -->
- ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660619028/github/Captura_de_pantalla_de_2022-08-16_00-03-29_lwhkrg.png)
+ ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
 
  <!-- descript -->
  Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
  Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
 
  <!-- msg -->
- Visitar la página de Henrys App -->
+ Visitar la página de Comida Rápida -->
  <a href="https://henrys-app.vercel.app/" target="blank">Clíck acá!</a>
+ 
  <br/><br/> <!-- 2 espacios -->
-
+ 
+ <!-- title project 02 -->
  <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="blank">Recipes YA</a></h3>
 
+<!-- img -->
+ ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
 
- <br/>
- <br/>
+ <!-- descript -->
+ Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
+ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
+
+ <!-- msg -->
+ Visitar la página de Recetas -->
+ <a href="https://pi-food-deploy-eight.vercel.app/" target="blank">Clíck acá!</a>
+ 
+ <br/><br/> <!-- 2 espacios -->
+
  <br/>
  <br/> 
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
