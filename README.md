@@ -11,7 +11,6 @@
 <h3><mark>&nbsp;Henrys App (Comida Rápida)&nbsp;</mark></h3>
  
 ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660619028/github/Captura_de_pantalla_de_2022-08-16_00-03-29_lwhkrg.png)
-
  
 Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
 Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
@@ -21,7 +20,7 @@ For more information visit the website of Rebirth:
 
 <br/>
 <br/>
-<h3><mark>&nbsp;Recipes YA&nbsp;</mark></h3>
+<h3><mark>&nbsp;<a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="blank">Recipes YA</a>&nbsp;</mark></h3>
 
 A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres and platforms.
 You can create your own game, put a description of it, rating, image, etc. and if you want more information of your game, you have access the details of the game.
