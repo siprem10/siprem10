@@ -13,7 +13,7 @@
 <!-- stats de github -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
  
-<!--  <br/><br/><br/> --> <!-- 2 espacios -->
+ <br/><br/> <!-- 2 espacios -->
  
  <!-- subtitle -->
 <!--  <h2><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3> -->
