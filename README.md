@@ -52,7 +52,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  NodeJS - Sequelize - PostgreSQL -  Express 
 
  <!-- msg -->
- Visitar la app de Comida Rápida -->
+ <b>Visitar la app de Comida Rápida --></b>
  <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <br/><br/> <!-- 2 espacios -->
@@ -71,7 +71,7 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  NodeJS - Sequelize - PostgreSQL -  Express 
 
  <!-- msg -->
- Visitar la app de Recetas -->
+ <b>Visitar la app de Recetas --></b>
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
   <!-- project finish -->
