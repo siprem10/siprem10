@@ -9,9 +9,10 @@
  Mis proyectos:
 
 <h3><mark>&nbsp;Henrys App (Comida Rápida)&nbsp;</mark></h3>
-
+<p align="center">
 ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660619028/github/Captura_de_pantalla_de_2022-08-16_00-03-29_lwhkrg.png)
-
+<p>
+ 
 Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
 Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
 
