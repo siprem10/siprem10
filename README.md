@@ -15,7 +15,7 @@
  <h3><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
 
  <!-- title project 01 -->
- <h3><a href="https://henrys-app.vercel.app/" target="blank">Henrys App</a></h3>
+ <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3>
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
@@ -26,12 +26,12 @@
 
  <!-- msg -->
  Visitar la página de Comida Rápida -->
- <a href="https://henrys-app.vercel.app/" target="blank">Clíck acá!</a>
+ <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <br/><br/> <!-- 2 espacios -->
  
  <!-- title project 02 -->
- <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="blank">Recipes YA</a></h3>
+ <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Recipes YA</a></h3>
 
 <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
@@ -42,7 +42,7 @@
 
  <!-- msg -->
  Visitar la página de Recetas -->
- <a href="https://pi-food-deploy-eight.vercel.app/" target="blank">Clíck acá!</a>
+ <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <br/><br/> <!-- 2 espacios -->
 
@@ -59,6 +59,6 @@
 
  <h3 align="center">Connect with me:</h3>
  <p align="center">
- <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rami-dominguez-full-stack/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rami-dominguez-full-stack/" height="30" width="40" /></a>
  </p>
 
