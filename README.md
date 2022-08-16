@@ -22,7 +22,10 @@
 
  <!-- descript -->
  Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
- Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
+ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago. 
+ 
+ Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
+ Node.js - Sequelize - PostgreSQL -  Express - 
 
  <!-- msg -->
  Visitar la página de Comida Rápida -->
@@ -38,24 +41,16 @@
 
  <!-- descript -->
  Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
- Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
+ Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago. 
+ 
+ Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
+ Node.js - Sequelize - PostgreSQL -  Express - 
 
  <!-- msg -->
  Visitar la página de Recetas -->
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
- <br/><br/> <!-- 2 espacios -->
-
- <br/>
- <br/> 
- Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
- Node.js - Sequelize - PostgreSQL -  Express - <br/><br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
+ <br/><br/><br/><br/> <!-- 4 espacios -->
 
  <h3 align="center">Connect with me:</h3>
  <p align="center">
