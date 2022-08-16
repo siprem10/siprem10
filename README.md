@@ -10,9 +10,9 @@
  <!-- subtitle -->
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
 
-<!--  <!-- stats de github --> -->
+<!-- stats de github -->
  
-<!--  <br/><br/> <!-- 2 espacios --> -->
+<!--  <br/><br/> --> <!-- 2 espacios -->
  
  <!-- subtitle -->
 <!--  <h2><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3> -->
