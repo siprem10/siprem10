@@ -23,7 +23,7 @@
  <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App</a></h3>
  
   <!-- descript -->
- Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
+Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarela de pago (mercado pago), mediante control de versiones con Git/GitHub, manejado con metodología Kanban en Trello y Slack.
  
   Implementaciones: 
 * Pasarela de pago (MercadoPago)
