@@ -72,4 +72,6 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  <p align="center">
  <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660623438/github/linkedin-min_x8lbqa.png" /></a>
  </p>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siprem10&show_icons=true&locale=en&layout=compact" alt="as" /></p>
 
