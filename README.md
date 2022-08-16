@@ -50,9 +50,9 @@
  Visitar la página de Recetas -->
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
- <br/><br/><br/><br/> <!-- 4 espacios -->
+ <br/><br/><br/> <!-- 3 espacios -->
 
- <h3 align="center">Connect with me:</h3>
+ <h3 align="center">Conéctate conmigo!</h3>
  <p align="center">
  <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rami-dominguez-full-stack/" height="30" width="40" /></a>
  </p>
