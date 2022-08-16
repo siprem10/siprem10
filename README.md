@@ -10,6 +10,9 @@
 
  <!-- stats de github -->
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical)
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&layout=compact)](https://github.com/siprem10/github-readme-stats)
 
  <!-- subtitle -->
  <h3><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
@@ -56,6 +59,4 @@
  <p align="center">
  <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660623438/github/linkedin-min_x8lbqa.png" /></a>
  </p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&layout=compact)](https://github.com/siprem10/github-readme-stats)
 
