@@ -31,7 +31,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * Autenticación JWT (registro/login nativo)
 * Autenticación Auth0 (registro/login Google)
 * Subir fotos a Cloudinary (cambiar imágenes de productos/perfil usuario)
-* Envio de orden con QRCODE
+* Generar una orden con QR (QRCODE)
 * Bcrypt (hasheo de contraseñas)
 * Utilización de Bootstrap (responsive & estilos)
 
