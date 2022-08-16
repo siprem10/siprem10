@@ -30,8 +30,6 @@ Everything was done with pure CSS without css frameworks or any external compone
 
 <br/><br/> Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
 Node.js - Sequelize - PostgreSQL -  Express - <br/><br/>
-For more information visit the website of Lenny Videogames:
-<a href="https://videogames-lenny.netlify.app/" target="blank">LINK</a>
 <br/><br/>
 <br/><br/>
 <br/><br/>
