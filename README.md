@@ -51,7 +51,7 @@
  <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA</a></h3>
  
   <!-- descript -->
-Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), además cuenta con una barra de búsqueda para buscar por el nombre de la receta. Tambíen tiene la posibilidad de editar/borrar las recetas existentes y la posibilidad de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas. 
+Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), además cuenta con una barra de búsqueda para buscar por el nombre de la receta. Tambíen tiene la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas. 
 * El proyecto se realizó con CSS puro sin dependencias que faciliten la UI.
  
 <!-- img -->
