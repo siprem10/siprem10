@@ -8,7 +8,7 @@
  <br/> <!-- 1 espacio -->
  
  <!-- subtitle -->
-<h3 align="center"><mark>&nbsp;Estadísticas:&nbsp;</mark></h3>
+<h3 align="center"><mark>&nbsp;Estadísticas&nbsp;</mark></h3>
 
 <!-- stats de github -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
@@ -17,7 +17,7 @@
  <br/><br/> <!-- 2 espacios -->
  
  <!-- subtitle -->
- <h2 align="center"><mark>&nbsp;Proyectos:&nbsp;</mark></h3>
+ <h2 align="center"><mark>&nbsp;Proyectos&nbsp;</mark></h3>
 
  <!-- title project 01 -->
  <h3 align="center"><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
