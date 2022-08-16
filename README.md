@@ -7,6 +7,9 @@
  
  <br/> <!-- 1 espacio -->
  
+  <!-- subtitle -->
+ <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
+ 
  <!-- subtitle -->
 <h3 align="center"><mark>&nbsp;Estadísticas&nbsp;</mark></h3>
 
