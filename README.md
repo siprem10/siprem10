@@ -7,12 +7,11 @@
  
  <br/> <!-- 1 espacio -->
  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
- 
  <!-- subtitle -->
 <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3>
 
 <!-- stats de github -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
  
 <!--  <br/><br/> --> <!-- 2 espacios -->
  
