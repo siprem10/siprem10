@@ -39,7 +39,7 @@
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
 
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
- Node.js - Sequelize - PostgreSQL -  Express - 
+ Node.js - Sequelize - PostgreSQL -  Express 
 
  <!-- msg -->
  Visitar la página de Comida Rápida -->
@@ -58,7 +58,7 @@
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
  
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
- Node.js - Sequelize - PostgreSQL -  Express - 
+ Node.js - Sequelize - PostgreSQL -  Express 
 
  <!-- msg -->
  Visitar la página de Recetas -->
