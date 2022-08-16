@@ -15,26 +15,26 @@
 Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
 Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
 
-For more information visit the website of Rebirth:
+Visit the website:
 <a href="https://henrys-app.vercel.app/" target="blank">LINK</a>
-
 <br/>
 <br/>
 
 <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="blank">Recipes YA</a></h3>
 
-A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres and platforms.
-You can create your own game, put a description of it, rating, image, etc. and if you want more information of your game, you have access the details of the game.
-It is fully responsive for mobile devices and pixel perfect.
-Everything was done with pure CSS without css frameworks or any external components.
-<br/><br/>
 
-
-<br/><br/> Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
+<br/>
+<br/>
+<br/>
+<br/> 
+Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
 Node.js - Sequelize - PostgreSQL -  Express - <br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
