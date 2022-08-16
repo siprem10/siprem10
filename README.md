@@ -9,7 +9,7 @@
  
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siprem10&repo=pi-food-deploy)](https://github.com/siprem10/pi-food-deploy)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siprem10&repo=pi-food-deploy)](https://github.com/anuraghazra/github-readme-stats)
  
  <!-- subtitle -->
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
