@@ -16,10 +16,10 @@
  <br/><br/> <!-- 2 espacios -->
  
  <!-- subtitle -->
- <h3><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
+ <h2><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
 
  <!-- title project 01 -->
- <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3>
+ <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App</a></h3>
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
@@ -38,7 +38,7 @@
  <br/><br/> <!-- 2 espacios -->
  
  <!-- title project 02 -->
- <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Recipes YA</a></h3>
+ <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA</a></h3>
 
 <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
