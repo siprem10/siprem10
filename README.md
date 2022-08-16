@@ -20,7 +20,7 @@
 <!--  <h2><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3> -->
 
  <!-- title project 01 -->
- <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App</a></h3>
+ <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
  
   <!-- descript -->
 Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarela de pago (mercado pago), mediante control de versiones con Git/GitHub, manejado con metodología Kanban en Trello y Slack.
@@ -48,7 +48,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <br/><br/> <!-- 2 espacios -->
  
  <!-- title project 02 -->
- <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA</a></h3>
+ <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA (proyecto individual)</a></h3>
  
   <!-- descript -->
 Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), además cuenta con una barra de búsqueda para buscar por el nombre de la receta, y tiene un paginado ya que se muestran hasta 9 resultados por pág. Tambíen tiene la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas muy interesantes. 
