@@ -3,7 +3,7 @@
 <!-- principal subtitle -->
 <h3 align="center">Full Stack Developer!</h3>
 <!-- principal img -->
-<p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif" width="200" height="200"/><p>
+<p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif" width="360" height="300"/><p>
  
  <br/> <!-- 1 espacio -->
  
