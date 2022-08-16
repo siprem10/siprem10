@@ -7,7 +7,7 @@
  
  <br/> <!-- 1 espacio -->
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical)
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" />
  
  <!-- subtitle -->
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
