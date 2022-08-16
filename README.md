@@ -57,5 +57,5 @@
  <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660623438/github/linkedin-min_x8lbqa.png" /></a>
  </p>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&layout=compact)](https://github.com/siprem10/github-readme-stats)
 
