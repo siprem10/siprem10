@@ -11,7 +11,6 @@
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
 
 <!--  <!-- stats de github --> -->
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical)
  
 <!--  <br/><br/> <!-- 2 espacios --> -->
  
