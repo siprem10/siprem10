@@ -59,6 +59,8 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
  Node.js - Sequelize - PostgreSQL -  Express 
+ 
+ Integrantes: 
 
  <!-- msg -->
  Visitar la app de Recetas -->
