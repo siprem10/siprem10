@@ -5,7 +5,7 @@
 <!-- principal img -->
 <p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif"/><p>
  
- <a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
+<a href="http://example.com/" target="_blank">Hello, world!</a>
  
  <!-- subtitle -->
  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3>
