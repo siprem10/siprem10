@@ -9,6 +9,8 @@
  
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
+ * Backend & DB: Java, JavaScript, Express, Sequelize, PostgreSQL, SQLite3, Postman
+ * Frontend: ReactJS, Redux, HTML, CSS
  
  <!-- subtitle -->
 <h3 align="center"><mark>&nbsp;Estadísticas&nbsp;</mark></h3>
