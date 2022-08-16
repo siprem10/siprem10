@@ -52,8 +52,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  
  <b>Integrantes:</b> @mabhyHs, @PJuanCruz, @maurorodriguez, @FLeiras, @siprem10
  
- <b>Tecnologías utilizadas:</b> JavaScript - React - Redux - CSS - HTML - 
- NodeJS - Sequelize - PostgreSQL -  Express 
+ <b>Tecnologías utilizadas:</b> HTML - CSS - JavaScript - NodeJS - Express - Sequelize - PostgreSQL - React - Redux
 
  <!-- msg -->
  <b>Visitar la app de Comida Rápida --></b>
@@ -71,8 +70,7 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
 <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
  
- <b>Tecnologías utilizadas:</b> JavaScript - React - Redux - CSS - HTML - 
- NodeJS - Sequelize - PostgreSQL -  Express 
+ <b>Tecnologías utilizadas:</b> HTML - CSS - JavaScript - NodeJS - Express - Sequelize - PostgreSQL - React - Redux
 
  <!-- msg -->
  <b>Visitar la app de Recetas --></b>
