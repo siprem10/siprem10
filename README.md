@@ -5,6 +5,8 @@
 <!-- principal img -->
 <p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif"/><p>
  
+ <br/> <!-- 1 espacio -->
+ 
  <!-- subtitle -->
  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3>
 
