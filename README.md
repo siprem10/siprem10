@@ -17,7 +17,7 @@ Corporate image design, UI/UX. Successful participation in an agile development 
 Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago.
 
 For more information visit the website of Rebirth:
-<a href="https://frontend-rebirth.vercel.app/" target="blank">LINK</a>
+<a href="https://henrys-app.vercel.app/" target="blank">LINK</a>
 
 <br/>
 <br/>
