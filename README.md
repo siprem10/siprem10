@@ -7,6 +7,8 @@
  
  <br/> <!-- 1 espacio -->
  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siprem10&repo=github-readme-stats)](https://github.com/siprem10/github-readme-stats)
+ 
  <!-- subtitle -->
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
 
