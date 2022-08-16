@@ -53,7 +53,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 
  <!-- msg -->
  <b>Visitar la app de Comida Rápida --></b>
- <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">[Clíck acá!]</a>
+ <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <br/><br/> <!-- 2 espacios -->
  
