@@ -42,7 +42,7 @@
  Node.js - Sequelize - PostgreSQL -  Express 
 
  <!-- msg -->
- Visitar la página de Comida Rápida -->
+ Visitar la app de Comida Rápida -->
  <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <br/><br/> <!-- 2 espacios -->
@@ -61,7 +61,7 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  Node.js - Sequelize - PostgreSQL -  Express 
 
  <!-- msg -->
- Visitar la página de Recetas -->
+ Visitar la app de Recetas -->
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <br/><br/><br/> <!-- 3 espacios -->
