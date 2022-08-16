@@ -9,9 +9,13 @@
  
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
- <b>* Backend & DB:</b> Java, JavaScript, Express, Sequelize, PostgreSQL, SQLite3, Postman
+ <b>* Backend:</b> Java, NodeJS, Express, Sequelize
  <br/> <!-- 1 espacio -->
- <b>* Frontend:</b> ReactJS, Redux, HTML, CSS
+ <b>* Database:</b> PostgreSQL, SQLite3
+ <br/> <!-- 1 espacio -->
+ <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript
+ <br/> <!-- 1 espacio -->
+ <b>* Herramientas:</b> Postman, pgAdmin 4
 
  
  <!-- subtitle -->
