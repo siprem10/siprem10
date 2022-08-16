@@ -51,8 +51,8 @@
  <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA</a></h3>
  
   <!-- descript -->
- Corporate image design, UI/UX. Successful participation in an agile development team with SCRUM methodology in one-week sprints presenting to a Product Owner progress on the development of a pet adoption app, which aims to facilitate communication between users who wish to both give in adoption, and adopt pets, it has features such as CRUD, auth, integration of payment gateways (to make donations to pets), through version control with GIT / GITHUB, managed with Kanban methodology in Trello and Slack.
- Implemented technologies: React, Redux, Node, Sequelize, Bootstrap, Express, MercadoPago. 
+Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), además cuenta con una barra de búsqueda para buscar por el nombre de la receta. Tambíen tiene la posibilidad de editar/borrar las recetas existentes y la posibilidad de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas. 
+* El proyecto se realizó con CSS puro sin dependencias que faciliten la UI.
  
 <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
