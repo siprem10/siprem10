@@ -77,7 +77,7 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
   <!-- project finish -->
  <h2></h3>
  
- <br/><br/><!-- 2 espacios -->
+ <br/><!-- 1 espacio -->
 
  <h3 align="center">Conéctate conmigo!</h3>
  <p align="center">
