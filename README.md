@@ -38,7 +38,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
  
- Integrantes: @mabhyHs, @PJuanCruz, @maurorodriguez, @maurorodriguez, @siprem10
+ Integrantes: @mabhyHs, @PJuanCruz, @maurorodriguez, @FLeiras, @siprem10
  
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
  Node.js - Sequelize - PostgreSQL -  Express 
