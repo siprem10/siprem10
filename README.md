@@ -26,7 +26,7 @@
 
  <!-- msg -->
  Visitar la página de Henrys App:
- <a href="https://henrys-app.vercel.app/" target="blank">Click :)</a>
+ <a href="https://henrys-app.vercel.app/" target="blank">Click acá!</a>
  <br/><br/> <!-- 2 espacios -->
 
  <h3><a href="https://pi-food-deploy-eight.vercel.app/" target="blank">Recipes YA</a></h3>
