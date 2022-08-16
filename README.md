@@ -15,7 +15,7 @@
  <h3><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
 
  <!-- title project 01 -->
- <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3>
+ <h3><a href="https://henrys-app.vercel.app/" target="blank" rel="noreferrer">Henrys App</a></h3>
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
