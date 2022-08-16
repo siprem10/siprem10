@@ -31,7 +31,8 @@
   <!-- descript -->
 Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarela de pago (mercado pago), mediante control de versiones con Git/GitHub, manejado con metodología Kanban en Trello y Slack.
  
-  Implementaciones: 
+ <h4 align="left"><mark>&nbsp;Implementaciones:&nbsp;</mark></h4>
+ 
 * Pasarela de pago (MercadoPago)
 * Envio de emails (NodeMail & EmailJS)
 * Autenticación JWT (registro/login nativo)
