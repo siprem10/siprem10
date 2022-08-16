@@ -5,8 +5,6 @@
 <!-- principal img -->
 <p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif"/><p>
  
-<a href="http://example.com/" target="_blank">Hello, world!</a>
- 
  <!-- subtitle -->
  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3>
 
@@ -17,7 +15,7 @@
  <h3><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
 
  <!-- title project 01 -->
- <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noopener noreferrer">Henrys App</a></h3>
+ <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Henrys App</a></h3>
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
