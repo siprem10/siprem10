@@ -66,6 +66,9 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  Visitar la app de Recetas -->
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
+  <!-- project finish -->
+ <h2></h3>
+ 
  <br/><br/><br/> <!-- 3 espacios -->
 
  <h3 align="center">Conéctate conmigo!</h3>
