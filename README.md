@@ -54,6 +54,6 @@
 
  <h3 align="center">Conéctate conmigo!</h3>
  <p align="center">
- <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rami-dominguez-full-stack/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="_blank" rel="noreferrer"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660622980/github/LinkedIn-Logo-2003_nylxxb.jpg" alt="https://www.linkedin.com/in/rami-dominguez-full-stack/" height="30" width="40" /></a>
  </p>
 
