@@ -17,7 +17,7 @@
  <br/><br/> <!-- 2 espacios -->
  
  <!-- subtitle -->
-<!--  <h2><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3> -->
+ <h2 align="center"><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
 
  <!-- title project 01 -->
  <h3><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
