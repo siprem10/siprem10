@@ -8,7 +8,7 @@
 
 <h3><mark>&nbsp;Mis proyectos:&nbsp;</mark></h3>
 
-<a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="blank">Henrys App</a>
+<h3><a href="https://www.linkedin.com/in/rami-dominguez-full-stack/" target="blank">Henrys App</a></h3>
 <h3><mark>&nbsp;Henrys App (Comida Rápida)&nbsp;</mark></h3>
  
 ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660619028/github/Captura_de_pantalla_de_2022-08-16_00-03-29_lwhkrg.png)
