@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola 👋, soy Ramiro Domínguez.</h1>
+<h1 align="center">👋 Hola, soy Ramiro Domínguez</h1>
 <p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif"/><p>
 <h3 align="center">Full Stack Developer!</h3>
 
