@@ -3,11 +3,11 @@
 <!-- principal subtitle -->
 <h3 align="center">Full Stack Developer!</h3>
 <!-- principal img -->
-<p align="center"><img align="center" src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif" width="560" height="460"/><p>
+<p align="center"><img src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif" width="560" height="460"/><p>
  
  <br/> <!-- 1 espacio -->
  
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
  
  <!-- subtitle -->
 <!--  <h3><mark>&nbsp;Estadísticas:&nbsp;</mark></h3> -->
