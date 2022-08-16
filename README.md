@@ -3,17 +3,9 @@
 <h1 align="center">👋Hola👋, soy Ramiro Domínguez.</h1>
 <h3 align="center">Full Stack Developer!</h3>
 
-<!-- - 🙍‍♂️ I am a proactive person willing to work in an environment of constant challenges where I can develop, put into practice and share my knowledge, experience, teamwork and leadership.
-
-- 🌱 I’m currently learning **Typescript and Tailwind**
-
-- 💼 Visit my porfolio: <a href="https://bit.ly/lenny_fullstack" target="blank">Portfolio</a> 
-
-- 📫 How to reach me <a href="http://wa.link/h7mkgt" target="blank">Whatsapp</a> -->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical)
 
-👨‍💻 My projects
+ Mis proyectos:
 
 <h3><mark>&nbsp;Henrys App (Comida Rápida)&nbsp;</mark></h3>
 
