@@ -10,7 +10,7 @@
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
  <h4 align="left"><mark>&nbsp;* Backend & DB:&nbsp;</mark></h4>Java, JavaScript, Express, Sequelize, PostgreSQL, SQLite3, Postman
- <h4 align="left"><mark>&nbsp;* Frontend: &nbsp;</mark></h4>ReactJS, Redux, HTML, CSS
+ <h4 display="inline" align="left"><mark display="inline">&nbsp;* Frontend: &nbsp;</mark></h4>ReactJS, Redux, HTML, CSS
 
  
  <!-- subtitle -->
