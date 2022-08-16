@@ -37,7 +37,9 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
-
+ 
+ Integrantes: 
+ 
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
  Node.js - Sequelize - PostgreSQL -  Express 
 
@@ -59,8 +61,6 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  
  Tecnologías utilizadas: JavaScript - React - Redux - CSS - HTML - 
  Node.js - Sequelize - PostgreSQL -  Express 
- 
- Integrantes: 
 
  <!-- msg -->
  Visitar la app de Recetas -->
