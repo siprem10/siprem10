@@ -5,6 +5,8 @@
 <!-- principal img -->
 <p align="center"><img src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif" width="560" height="460"/><p>
  
+ Me considero una persona proactiva, persistente y autodidacta. Disfruto trabajar en equipo, encontrarme con nuevos desafíos, debatir soluciones, aprender, aprender de los demás, compartir mi conocimiento y enseñarle a los demás. Mi motivación es superarme día a día, aspiro a seguir creciendo como persona y como profesional.
+ 
  <br/> <!-- 1 espacio -->
  
   <!-- subtitle -->
