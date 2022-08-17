@@ -50,12 +50,12 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * Utilización de Bootstrap (responsive & estilos)
 
 <b>Equipo:</b>
-* <a href="https://github.com/mabhyHs" target="_blank" rel="noreferrer">Huens Mailen</a>
+* <a href="https://github.com/mabhyHs" target="_blank" rel="noreferrer">Mailén Huens</a>
 * <a href="https://github.com/FLeiras" target="_blank" rel="noreferrer">Federico Leiras</a>
 * <a href="https://github.com/PJuanCruz" target="_blank" rel="noreferrer">Juan Cruz Peluffo</a>
 * <a href="https://github.com/maurorodriguez" target="_blank" rel="noreferrer">Mauro Rodriguez</a>
 * <a href="https://github.com/pablogarciamoralez" target="_blank" rel="noreferrer">Pablo García Moralez</a>
-* <a href="https://github.com/siprem10" target="_blank" rel="noreferrer">Ramiro Joaquin Dominguez</a>
+* <a href="https://github.com/siprem10" target="_blank" rel="noreferrer">Ramiro Joaquín Domínguez</a>
 
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
