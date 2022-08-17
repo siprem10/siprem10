@@ -26,7 +26,7 @@
 <!-- stats de github -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siprem10&show_icons=true&locale=en&layout=compact" alt="pjuancruz" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siprem10&show_icons=true&locale=en&layout=compact" alt="siprem10" /></p>
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&layout=compact" alt="as" /></p>
 
