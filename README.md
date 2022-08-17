@@ -49,11 +49,17 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * Bcrypt (hasheo de contraseñas)
 * Utilización de Bootstrap (responsive & estilos)
 
+ Equipo:
+* <a href="https://github.com/mabhyHs" target="_blank" rel="noreferrer">Huens Mailen</a>
+* <a href="https://github.com/FLeiras" target="_blank" rel="noreferrer">Federico Leiras</a>
+* <a href="https://github.com/PJuanCruz" target="_blank" rel="noreferrer">Juan Cruz Peluffo</a>
+* <a href="https://github.com/maurorodriguez" target="_blank" rel="noreferrer">Mauro Rodriguez</a>
+* <a href="https://github.com/pablogarciamoralez" target="_blank" rel="noreferrer">Pablo García Moralez</a>
+* <a href="https://github.com/siprem10" target="_blank" rel="noreferrer">Ramiro Joaquin Dominguez</a>
+
  <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
- 
- <b>Integrantes:</b> @mabhyHs, @PJuanCruz, @maurorodriguez, @FLeiras, @siprem10
- 
+  
  <b>Tecnologías utilizadas:</b> HTML - CSS - JavaScript - NodeJS - Express - Sequelize - PostgreSQL - React - Redux
 
  <!-- msg -->
