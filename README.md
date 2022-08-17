@@ -49,7 +49,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * Bcrypt (hasheo de contraseñas)
 * Utilización de Bootstrap (responsive & estilos)
 
- Equipo:
+<b>Equipo:</b>
 * <a href="https://github.com/mabhyHs" target="_blank" rel="noreferrer">Huens Mailen</a>
 * <a href="https://github.com/FLeiras" target="_blank" rel="noreferrer">Federico Leiras</a>
 * <a href="https://github.com/PJuanCruz" target="_blank" rel="noreferrer">Juan Cruz Peluffo</a>
