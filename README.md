@@ -15,7 +15,7 @@
  <br/> <!-- 1 espacio -->
  <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript
  <br/> <!-- 1 espacio -->
- <b>* Herramientas:</b> Postman, pgAdmin 4
+ <b>* Herramientas:</b> Postman, pgAdmin 4, Android Studio
 
  
  <!-- subtitle -->
