@@ -69,6 +69,9 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <b>Visitar la app de Comida Rápida --></b>
  <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
+ <!-- link review -->
+ <a href="https://youtu.be/tm6ueeGF8zU" target="_blank" rel="noreferrer">* Review</a>
+ 
  <!-- link repo -->
  <a href="https://github.com/mabhyHs/Henrys-app" target="_blank" rel="noreferrer">* Repositorio</a>
  
@@ -89,6 +92,9 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  <!-- msg -->
  <b>Visitar la app de Recetas --></b>
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
+ 
+ <!-- link review -->
+ <a href="https://www.youtube.com/watch?v=qVuw29yqahw" target="_blank" rel="noreferrer">* Review</a>
  
  <!-- link repo -->
  <a href="https://github.com/siprem10/pi-food-deploy" target="_blank" rel="noreferrer">* Repositorio</a>
