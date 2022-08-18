@@ -90,6 +90,9 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
  <b>Visitar la app de Recetas --></b>
  <a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
+ <!-- link repo -->
+ <a href="https://github.com/siprem10/pi-food-deploy" target="_blank" rel="noreferrer">* Repositorio</a>
+ 
   <!-- project finish -->
  <h2></h3>
  
