@@ -26,7 +26,11 @@
 <h3 align="center"><mark>&nbsp;Estadísticas&nbsp;</mark></h3>
 
 <!-- stats de github -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&show_icons=true&theme=radical" alt="not found" /><p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siprem10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="not found" /><p>
+ 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=siprem10&theme=tokyonight&hide_border=false" alt="not found" /><p>
+ 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="not found" /><p> 
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siprem10&layout=compact" alt="siprem10" /></p> -->
 
