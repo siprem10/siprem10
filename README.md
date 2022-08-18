@@ -61,7 +61,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
 * <a href="https://github.com/siprem10" target="_blank" rel="noreferrer">Ramiro Joaquín Domínguez</a>
 
  <!-- img -->
- ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-16_fc5keo.png)
+ ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660810115/github/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f647a34656a6c34796d2f696d6167652f75706c6f61642f76313636303636373838332f446973652543332542316f5f73696e5f7425433325414474756c6f5f335f6239776a6f652e676966_l7glbs.gif)
   
  <b>Tecnologías utilizadas:</b> HTML - CSS - JavaScript - NodeJS - Express - Sequelize - PostgreSQL - React - Redux
 
