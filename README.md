@@ -84,7 +84,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <h3 align="left"><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA (proyecto individual)</a></h3>
  
   <!-- descript -->
-Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), además cuenta con una barra de búsqueda para buscar por el nombre de la receta, y tiene un paginado ya que se muestran hasta 9 resultados por pág. Tambíen tiene la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas muy interesantes. 
+Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), también posee una barra de búsqueda para buscar por el nombre de la receta, y tiene un paginado ya que se muestran hasta 9 resultados por pág. Además cuenta con la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas muy interesantes. 
 * El proyecto se realizó con CSS puro sin dependencias que faciliten la UI.
  
 <!-- img -->
