@@ -38,9 +38,6 @@
  <!-- title project 01 -->
  <h3 align="left"><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
  
- <!-- link repo -->
- <a href="https://github.com/mabhyHs/Henrys-app" target="_blank" rel="noreferrer">* Repositorio</a>
- 
   <!-- descript -->
 Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desarrollo ágil con metodología SCRUM en sprints de una semana presentando a un Product Owner avances en el desarrollo de una app de venta de comida rápida online, la cual tiene como objetivo facilitar, optimizar y agilizar la compra de hamburguesas, cuenta con funcionalidades como CRUD, auth, integración de pasarela de pago (mercado pago), mediante control de versiones con Git/GitHub, manejado con metodología Kanban en Trello y Slack.
  
@@ -71,6 +68,9 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <!-- msg -->
  <b>Visitar la app de Comida Rápida --></b>
  <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
+ 
+ <!-- link repo -->
+ <a href="https://github.com/mabhyHs/Henrys-app" target="_blank" rel="noreferrer">* Repositorio</a>
  
  <br/><br/> <!-- 2 espacios -->
  
