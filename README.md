@@ -66,7 +66,6 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <b>Tecnologías utilizadas:</b> HTML - CSS - JavaScript - NodeJS - Express - Sequelize - PostgreSQL - React - Redux
  
  <a href="https://github.com/mabhyHs/Henrys-app" target="_blank" rel="noreferrer">* Repositorio</a>
- <a href="https://www.figma.com/file/3jxe4uA5ocbyjtHHiRjVgn/Henrys?node-id=148%3A223" target="_blank" rel="noreferrer">* Protipo Figma</a>
 
  <!-- msg -->
  <b>Visitar la app de Comida Rápida --></b>
