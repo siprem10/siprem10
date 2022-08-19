@@ -73,7 +73,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">Clíck acá!</a>
  
  <!-- link review -->
- <a href="https://youtu.be/tm6ueeGF8zU" target="_blank" rel="noreferrer">* Review</a>
+ <a href="https://www.youtube.com/watch?v=WN5D9ic8_XY" target="_blank" rel="noreferrer">* Review</a>
  
  <!-- link repo -->
  <a href="https://github.com/mabhyHs/Henrys-app" target="_blank" rel="noreferrer">* Repositorio</a>
