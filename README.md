@@ -88,7 +88,7 @@ Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéti
 * El proyecto se realizó con CSS puro sin dependencias que faciliten la UI.
  
 <!-- img -->
- ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
+ ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1661279861/github/github_Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7-c_scale_q_100_w_900_vq6mue.png)
  
  <b>Tecnologías utilizadas:</b> HTML - CSS - JavaScript - NodeJS - Express - Sequelize - PostgreSQL - React - Redux
 
