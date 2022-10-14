@@ -11,7 +11,7 @@
  
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
- <b>* Backend:</b> Java, NodeJS, Express, Sequelize
+ <b>* Backend:</b> Java, Spring, NodeJS, Express, Sequelize
  <br/> <!-- 1 espacio -->
  <b>* Database:</b> PostgreSQL, SQLite3
  <br/> <!-- 1 espacio -->
