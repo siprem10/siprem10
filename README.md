@@ -38,10 +38,10 @@
  <h2 align="left"><mark>&nbsp;Proyectos&nbsp;</mark></h3>
  
   <!-- title project 01 -->
- <h3 align="left"><a href="https://weather-app-rosy-zeta.vercel.app/" target="_blank" rel="noreferrer">* Weather App</a></h3>
+ <h3 align="left"><a href="https://weather-app-rosy-zeta.vercel.app/" target="_blank" rel="noreferrer">* Weather App (autodidácta)</a></h3>
  
   <!-- descript -->
-App Web realizada de forma autodidacta. Permite buscar el clima y pronóstico extendido de cualquier ciudad.
+Permite buscar el clima y pronóstico extendido de cualquier ciudad.
 
  <b>Tecnologías utilizadas:</b> HTML - CSS - TypeScript - React - Redux Toolkit - Bootstrap
 
@@ -88,7 +88,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <br/><br/> <!-- 2 espacios -->
  
  <!-- title project 03 -->
- <h3 align="left"><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA (proyecto individual)</a></h3>
+ <h3 align="left"><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA (autodidácta)</a></h3>
  
   <!-- descript -->
 Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), también posee una barra de búsqueda para buscar por el nombre de la receta, y tiene un paginado ya que se muestran hasta 9 resultados por pág. Además cuenta con la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas muy interesantes. 
