@@ -41,7 +41,7 @@
  <h3 align="left"><a href="https://weather-app-rosy-zeta.vercel.app/" target="_blank" rel="noreferrer">* Weather App</a></h3>
  
   <!-- descript -->
-Pequeña app web realizada de forma autodidacta, permite buscar el clima y pronóstico extendido de cualquier ciudad.
+App Web realizada de forma autodidacta. Permite buscar el clima y pronóstico extendido de cualquier ciudad.
 
  <b>Tecnologías utilizadas:</b> HTML - CSS - TypeScript - React - Redux Toolkit - Bootstrap
 
