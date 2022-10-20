@@ -45,6 +45,8 @@ Permite buscar el clima y pronóstico extendido de cualquier ciudad.
 
  <b>Tecnologías utilizadas:</b> HTML - CSS - TypeScript - React - Redux Toolkit - Bootstrap
 
+ <br/><br/> <!-- 2 espacios -->
+
  <!-- title project 02 -->
  <h3 align="left"><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
  
