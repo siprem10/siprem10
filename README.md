@@ -37,13 +37,15 @@
  <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Proyectos&nbsp;</mark></h3>
  
-  <!-- title project 00 -->
+  <!-- title project 01 -->
  <h3 align="left"><a href="https://weather-app-rosy-zeta.vercel.app/" target="_blank" rel="noreferrer">* Weather App</a></h3>
  
   <!-- descript -->
 Pequeña app web realizada de forma autodidacta, permite buscar el clima y pronóstico extendido de cualquier ciudad.
 
- <!-- title project 01 -->
+ <b>Tecnologías utilizadas:</b> HTML - CSS - TypeScript - React - Redux Toolkit - Bootstrap
+
+ <!-- title project 02 -->
  <h3 align="left"><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
  
   <!-- descript -->
@@ -85,7 +87,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  
  <br/><br/> <!-- 2 espacios -->
  
- <!-- title project 02 -->
+ <!-- title project 03 -->
  <h3 align="left"><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA (proyecto individual)</a></h3>
  
   <!-- descript -->
