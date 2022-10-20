@@ -95,8 +95,7 @@ Diseño de imagen corporativa, UI/UX. Participación activa en un equipo de desa
  <h3 align="left"><a href="https://pi-food-deploy-eight.vercel.app/" target="_blank" rel="noreferrer">* Recipes YA (autodidácta)</a></h3>
  
   <!-- descript -->
-Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), también posee una barra de búsqueda para buscar por el nombre de la receta, y tiene un paginado ya que se muestran hasta 9 resultados por pág. Además cuenta con la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas muy interesantes. 
-* El proyecto se realizó con CSS puro sin dependencias que faciliten la UI.
+Permite buscar información sobre recetas de cocina, podés ordenarlas alfabéticamente o por nivel de saludabilidad, filtrarlas por tipo de dieta (vegetariano, libre de gluten, etc), también posee una barra de búsqueda para buscar por el nombre de la receta, y tiene un paginado ya que se muestran hasta 9 resultados por pág. Además cuenta con la posibilidad de editar/borrar las recetas existentes y de crear tu propia receta de cocina con sus respectivas instrucciones, imagen, entre otras cosas muy interesantes.
  
 <!-- img -->
  ![maquetaHome](https://res.cloudinary.com/henrysburgers/image/upload/v1660621580/github/Captura_de_pantalla_de_2022-08-16_00-45-41_xmh9j7.png)
