@@ -42,6 +42,8 @@
  
   <!-- descript -->
 Permite buscar el clima y pronóstico extendido de cualquier ciudad.
+<!-- img -->
+<p align="left"><img src="https://res.cloudinary.com/henrysburgers/image/upload/v1666298585/github/1_e4rm7n.png" alt="gif" width="fit-content"/><p>
 
  <b>Tecnologías utilizadas:</b> HTML - CSS - TypeScript - React - Redux Toolkit - Bootstrap
 
