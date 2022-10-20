@@ -36,6 +36,12 @@
  
  <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Proyectos&nbsp;</mark></h3>
+ 
+  <!-- title project 00 -->
+ <h3 align="left"><a href="https://weather-app-rosy-zeta.vercel.app/" target="_blank" rel="noreferrer">* Weather App</a></h3>
+ 
+  <!-- descript -->
+Pequeña app web realizada de forma autodidacta, permite buscar el clima y pronóstico extendido de cualquier ciudad.
 
  <!-- title project 01 -->
  <h3 align="left"><a href="https://henrys-app.vercel.app/" target="_blank" rel="noreferrer">* Henrys App (proyecto grupal)</a></h3>
