@@ -20,6 +20,8 @@
  <b>* Herramientas:</b> Postman, pgAdmin 4, Android Studio, Trello
  <br/> <!-- 1 espacio -->
  <b>* Control de versiones:</b> Git/GitHub
+ <br/> <!-- 1 espacio -->
+ <b>* Otros:</b> TypeScript, C
 
  
  <!-- subtitle -->
