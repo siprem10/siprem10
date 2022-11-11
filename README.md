@@ -15,9 +15,9 @@
  <br/> <!-- 1 espacio -->
  <b>* Database:</b> PostgreSQL, SQLite3
  <br/> <!-- 1 espacio -->
- <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript
+ <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript, SASS, Bootstrap
  <br/> <!-- 1 espacio -->
- <b>* Herramientas:</b> Postman, pgAdmin 4, Android Studio, Trello
+ <b>* Herramientas:</b> Jira, Trello, Postman, pgAdmin 4, Android Studio
  <br/> <!-- 1 espacio -->
  <b>* Control de versiones:</b> Git/GitHub
  <br/> <!-- 1 espacio -->
