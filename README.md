@@ -15,7 +15,7 @@
  <br/> <!-- 1 espacio -->
  <b>* Database:</b> MySQL, PostgreSQL, SQLite
  <br/> <!-- 1 espacio -->
- <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript, SASS, Bootstrap
+ <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript, SASS, Bootstrap, TailwindCSS
  <br/> <!-- 1 espacio -->
  <b>* Herramientas:</b> Jira, Postman
  <br/> <!-- 1 espacio -->
