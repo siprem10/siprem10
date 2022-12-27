@@ -11,17 +11,17 @@
  
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
- <b>* Backend:</b> Java, Spring, NodeJS, Express, Sequelize
+ <b>* Backend:</b> Java, Spring Boot, NodeJS, Express, Sequelize
  <br/> <!-- 1 espacio -->
- <b>* Database:</b> PostgreSQL, SQLite3
+ <b>* Database:</b> MySQL, PostgreSQL, SQLite
  <br/> <!-- 1 espacio -->
  <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript, SASS, Bootstrap
  <br/> <!-- 1 espacio -->
- <b>* Herramientas:</b> Jira, Trello, Postman, pgAdmin 4, Android Studio
+ <b>* Herramientas:</b> Jira, Postman
  <br/> <!-- 1 espacio -->
- <b>* Control de versiones:</b> Git/GitHub
+ <b>* Control de versiones:</b> GIT
  <br/> <!-- 1 espacio -->
- <b>* Otros:</b> TypeScript, C
+ <b>* Otros:</b> SCRUM, TypeScript, C
 
  
  <!-- subtitle -->
