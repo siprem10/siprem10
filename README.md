@@ -5,8 +5,10 @@
 <!-- principal img -->
 <p align="center"><img src="https://res.cloudinary.com/henrysburgers/image/upload/v1660619757/github/5083e0a2a7dcaae07c142e8b87036a27_rno1rv.gif" alt="gif" width="360" height="260"/><p>
  
- Tengo 21 años y comencé a programar a los 16 años apps android en Java. 
+ Tengo 21 años y comencé a programar a los 16 años apps android en Java.
+ <br/>
 Soy una persona proactiva, persistente y autodidacta. Disfruto trabajar en equipo, encontrarme con nuevos desafíos, debatir soluciones, aprender y compartir mi conocimiento. 
+ <br/>
 Mi motivación es superarme día a día, aspiro a seguir creciendo como persona y como profesional.
  
  <br/> <!-- 1 espacio -->
