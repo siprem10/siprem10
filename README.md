@@ -17,7 +17,7 @@ Mi motivación es superarme día a día, aspiro a seguir creciendo como persona 
  
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Tecnologías&nbsp;</mark></h3>
- <b>* Backend:</b> Java, Spring Boot, NodeJS, Express, Sequelize
+ <b>* Backend:</b> Java, Spring Boot, API REST, NodeJS, Express, Camunda BPM 
  <br/> <!-- 1 espacio -->
  <b>* Database:</b> MySQL, PostgreSQL, SQLite
  <br/> <!-- 1 espacio -->
