@@ -7,7 +7,7 @@
  
   <!-- subtitle -->
  <h2 align="left"><mark>&nbsp;Sobre mí&nbsp;</mark></h3>
- Tengo 21 años y comencé a programar a los 16 años apps android en Java.
+ Tengo 23 años y comencé a programar a los 16 años apps android en Java.
  <br/>
 Soy una persona proactiva, persistente y autodidacta. Disfruto trabajar en equipo, encontrarme con nuevos desafíos, debatir soluciones, aprender y compartir mi conocimiento. 
  <br/>
@@ -21,13 +21,11 @@ Mi motivación es superarme día a día, aspiro a seguir creciendo como persona 
  <br/> <!-- 1 espacio -->
  <b>* Database:</b> MySQL, PostgreSQL, SQLite
  <br/> <!-- 1 espacio -->
- <b>* Frontend:</b> ReactJS, Redux, HTML, CSS, JavaScript, SASS, Bootstrap, TailwindCSS
+ <b>* Frontend:</b> ReactJS, HTML, CSS, JavaScript, SASS, Bootstrap, TailwindCSS
  <br/> <!-- 1 espacio -->
- <b>* Herramientas:</b> Jira, Postman
+ <b>* Herramientas:</b> Jira, Postman, Elastic, SonarQube
  <br/> <!-- 1 espacio -->
  <b>* Control de versiones:</b> GIT
- <br/> <!-- 1 espacio -->
- <b>* Otros:</b> SCRUM, TypeScript, C
 
  
  <!-- subtitle -->
